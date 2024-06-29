@@ -69,7 +69,7 @@
     "pdfkit": "~0.8",
     "replace": "~0.3",
     "request": "~2",
-    "sanitize-html": "1.4.2",
+    "sanitize-html": "1.4.3",
     "sequelize": "~4",
     "serve-favicon": "~2.4",
     "serve-index": "~1.9",
